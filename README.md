@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![QQWaseokE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QQWaseokE&show_icons=true)
-
-https://hits.seeyoufarm.com/
