@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **"Android** & **Machine Learning"**
-- ⚡ Fun fact : SNOW BOARD🏂 & 마영전🎮
+- ⚡ Fun fact : SNOW BOARD🏂 & MapleStory🎮
 
 <pre>
 🌱 I’m currently learning ...
