@@ -1,7 +1,7 @@
 ### Hi I'm Quick Quick WaseokE 👋
 
 
-- 🌱 I’m currently learning **"Android** & **Python&Kotlin"**
+- 🌱 I’m currently learning **"Android** & **Python & Kotlin"**
 - ⚡ Fun fact : SNOW BOARD🏂 & LostArk🎮
 
 <pre>
