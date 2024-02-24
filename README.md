@@ -7,7 +7,7 @@
 <pre>
 🌱 I’m currently learning ...
 
-<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=black"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&logo=kotlin&logoColor=black"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java Script-FFFFFF?style=flat-square&logo=Javascript&logoColor=black"/></a>
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=black"/></a> <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&logo=kotlin&logoColor=black"/></a> <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide" target="_blank"><img src="https://img.shields.io/badge/Java Script-FFFFFF?style=flat-square&logo=Javascript&logoColor=black"/></a>
 </pre>
 
 ![QQWaseokE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QQWaseokE&show_icons=true)
