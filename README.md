@@ -1,8 +1,8 @@
 ### Hi I'm Quick Quick WaseokE 👋
 
 
-- 🌱 I’m currently learning **"Android** & **Machine Learning"**
-- ⚡ Fun fact : SNOW BOARD🏂 & MapleStory🎮
+- 🌱 I’m currently learning **"Android** & **Python&Kotlin"**
+- ⚡ Fun fact : SNOW BOARD🏂 & LostArk🎮
 
 <pre>
 🌱 I’m currently learning ...
